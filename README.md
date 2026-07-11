@@ -177,5 +177,5 @@ Our Hybrid CNN and Soft-Voting Ensemble achieve outstanding results on the clini
 ## 🎓 Academic Attributions
 *   **Course:** Bachelor of Technology (B.Tech) - Computer Science & Engineering
 *   **Project Classification:** Final Year Major Project (Viva-Ready)
-*   **Author:** [Himanshu]
+*   **Author:** Divyansh
 *   **Core Technologies:** TensorFlow/Keras, OpenCV, Streamlit, Matplotlib, Scikit-learn.
